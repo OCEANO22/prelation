@@ -20,7 +20,7 @@ onMounted(() => {
 
 <template>
   <main>
-    <div>OK</div>
+    <div>Y GEDE</div>
     <div>
     <ul>
       <li v-for="prelation in prelations" :key="prelation.id">
