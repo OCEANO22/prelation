@@ -1,6 +1,7 @@
 <template>
   <header class="header">
-    <img src="/seal_O_PR-removebg-preview.png" alt="Logo Organisasi" />
+    <img src="@/assets/seal_O_PR-removebg-preview.png" alt="Seal" />
+ alt="Logo Organisasi" />
     <h1>PUBLIC RELATION HUMANIKA</h1>
   </header>
 </template>
